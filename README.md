@@ -13,7 +13,8 @@ Collection of useful resources about coding, data analysis and so on
 
 # **Books about R**
 
-1. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
+1. An Introduction to Data Analysis. How to use R to handle, plot and analyze data. [Click here](https://michael-franke.github.io/intro-data-analysis/index.html)
+2. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
 
 # **Free workshops and cources**
 
