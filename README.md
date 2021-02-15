@@ -1,5 +1,5 @@
 # Useful-links
-Collection of useful resources about coding, data analysis and so on 
+Collection of useful resources about coding in R and data manipulations 
 
 # **Markdown useful links**
 
@@ -10,6 +10,7 @@ Collection of useful resources about coding, data analysis and so on
    ## ggplot grammar or how to create plots with ggpot2 package in R
 1. General guide with slides. [Click here](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
+Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 # **Books about R**
 
