@@ -5,6 +5,9 @@ Collection of useful resources about coding in R and data manipulations
 
 1. Markdown Cheatsheet helps to create and organize Github "README.md" page. [Click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+# **Satatistics**
+
+Report your statistics to manuscript. Really cool package![Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
    ## ggplot grammar or how to create plots with ggpot2 package in R
