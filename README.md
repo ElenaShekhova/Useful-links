@@ -10,6 +10,8 @@ Collection of useful resources about coding in R and data manipulations
 
 1. An Introduction to Data Analysis. How to use R to handle, plot and analyze data. [Click here](https://michael-franke.github.io/intro-data-analysis/index.html)
 2. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
+3. Basic R Guide for NSC Statistics [Click here](https://bookdown.org/dli/rguide/)
+4. R Graphics Cookbook [Click here](https://r-graphics.org/)
 
 # **Satatistics**
 
@@ -20,6 +22,8 @@ Report your statistics to manuscript. Really cool package! [Click here](https://
    ## ggplot grammar or how to create plots with ggpot2 package in R
 1. General guide with slides. [Click here](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
+3. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
+4. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
 Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 
@@ -32,7 +36,7 @@ Arrange several graphs together. [Click here](https://gotellilab.github.io/Gotel
 
 1. Analyzing high-throughput FACS assays with R. [Click here](https://jchellmuth.com/posts/FACS-with-R/)
 2. RNAseq analysis in R. [Click here](https://bioinformatics-core-shared-training.github.io/RNAseq-R/) and [Click here](https://combine-australia.github.io/RNAseq-R/)
-
+3. An amazing workshop on how to analyze RNA-seq Bulk and single-cell data. [Click here](https://stemangiola.github.io/rpharma2020_tidytranscriptomics/articles/tidytranscriptomics.html#reproducibility-1)
 
 # **Useful tools for meta-analysis**
 
