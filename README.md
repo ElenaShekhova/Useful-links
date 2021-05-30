@@ -30,7 +30,7 @@ Arrange several graphs together. [Click here](https://gotellilab.github.io/Gotel
 # **Free workshops and courses**
 
 1. Lots of cources for omics data analysis. [Click here](http://app.orchestra.cancerdatasci.org/)
-
+2. Data manipulation in R. Gives an idea on how to work with big data sets using the Tidyverse packages [Click here](https://www.datanovia.com/en/courses/data-manipulation-in-r/)
 
 # **Useful tools for microbiologists and immunologists**
 
