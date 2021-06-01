@@ -10,8 +10,9 @@ Collection of useful resources about coding in R and data manipulations
 
 1. An Introduction to Data Analysis. How to use R to handle, plot and analyze data. [Click here](https://michael-franke.github.io/intro-data-analysis/index.html)
 2. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
-3. Basic R Guide for NSC Statistics [Click here](https://bookdown.org/dli/rguide/)
-4. R Graphics Cookbook. Basically everything you need to know about graphics in R [Click here](https://r-graphics.org/)
+3. Basic R Guide for NSC Statistics. [Click here](https://bookdown.org/dli/rguide/)
+4. R Graphics Cookbook. Basically everything you need to know about graphics in R. [Click here](https://r-graphics.org/)
+5. Data Wrangling with R. Describes how to use dplyr and tidyr packages. [Click here](https://cengel.github.io/R-data-wrangling/)
 
 # **Satatistics**
 
