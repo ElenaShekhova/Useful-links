@@ -11,12 +11,13 @@ Collection of useful resources about coding in R and data manipulations
 1. An Introduction to Data Analysis. How to use R to handle, plot and analyze data. [Click here](https://michael-franke.github.io/intro-data-analysis/index.html)
 2. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
 3. Basic R Guide for NSC Statistics [Click here](https://bookdown.org/dli/rguide/)
-4. R Graphics Cookbook [Click here](https://r-graphics.org/)
+4. R Graphics Cookbook. Basically everything you need to know about graphics in R [Click here](https://r-graphics.org/)
 
 # **Satatistics**
 
-Common statistical tests are linear models (or: how to teach stats). [Click here](https://lindeloev.github.io/tests-as-linear/)
-Report your statistics to manuscript. Really cool package! [Click here](https://github.com/easystats/report)
+1. Common statistical tests are linear models (or: how to teach stats). [Click here](https://lindeloev.github.io/tests-as-linear/)
+2. Report your statistics to manuscript. Really cool package! [Click here](https://github.com/easystats/report)
+3. Comparing means in R. An easy guide to standart statistical tests. [Click here](http://www.sthda.com/english/wiki/comparing-means-in-r)
 
 # **Everything about data visualization**
    ## ggplot grammar or how to create plots with ggpot2 package in R
@@ -24,7 +25,7 @@ Report your statistics to manuscript. Really cool package! [Click here](https://
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
 4. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
-Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
+5. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 
 # **Free workshops and courses**
@@ -40,8 +41,8 @@ Arrange several graphs together. [Click here](https://gotellilab.github.io/Gotel
 
 # **Useful tools for meta-analysis**
 
-A package for re-analysing published meta-analysis data. [Click here](https://github.com/dsquintana/metameta)
-Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
+1. A package for re-analysing published meta-analysis data. [Click here](https://github.com/dsquintana/metameta)
+2. Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
 
 # **Blogs to keep yourself updated**
 
@@ -50,3 +51,4 @@ Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click her
 # **Markdown useful links**
 
 1. Markdown Cheatsheet helps to create and organize Github "README.md" page. [Click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. A wonderful tutorial on how to build websites with the Jekyll framework on GitHub [Click here](https://carpentries-incubator.github.io/jekyll-pages-novice/)
