@@ -28,10 +28,12 @@ Collection of useful resources about coding in R and data manipulations
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. R visualization workshop. Lots of useful info about graphics in R. [Click here](https://stulp.gmw.rug.nl/ggplotworkshop/)
 4. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
-5. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
-6. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
-7. Create animated plots! How about that?! [Click here](https://anderfernandez.com/en/blog/how-to-create-animations-in-r-with-gganimate/), [and here](https://paldhous.github.io/ucb/2018/dataviz/week14.html), [and here](https://gganimate.com/)
-8. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
+
+## things you can do with your plots 
+1. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
+2. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
+3. Create animations! How about that?! [Click here](https://anderfernandez.com/en/blog/how-to-create-animations-in-r-with-gganimate/), [and here](https://paldhous.github.io/ucb/2018/dataviz/week14.html), [and here](https://gganimate.com/)
+4. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 
 # **Free workshops and courses**
