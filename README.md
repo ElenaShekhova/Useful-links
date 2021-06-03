@@ -30,7 +30,7 @@ Collection of useful resources about coding in R and data manipulations
 4. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
 5. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
 6. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
-7. Create animated plots! How about that?! [Click here](https://anderfernandez.com/en/blog/how-to-create-animations-in-r-with-gganimate/)[and here](https://paldhous.github.io/ucb/2018/dataviz/week14.html)[and here](https://gganimate.com/)
+7. Create animated plots! How about that?! [Click here](https://anderfernandez.com/en/blog/how-to-create-animations-in-r-with-gganimate/) [and here](https://paldhous.github.io/ucb/2018/dataviz/week14.html) [and here](https://gganimate.com/)
 8. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 
