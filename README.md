@@ -24,7 +24,7 @@ Collection of useful resources about coding in R and data manipulations
 2. Comparing means in R. An easy guide to standart statistical tests. [Click here](http://www.sthda.com/english/wiki/comparing-means-in-r)
 3. 
 4. A great collection of R packages to deal with statistics. [Click here](https://github.com/easystats/easystats)
-   Includes a cool package allowing to report statistics directly to a manuscript.[Click here](https://github.com/easystats/report)
+   Includes a cool package allowing to report statistics directly to a manuscript. [Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
    ## ggplot grammar or how to create plots with ggpot2 package in R
