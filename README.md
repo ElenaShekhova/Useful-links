@@ -27,13 +27,13 @@ Collection of useful resources about coding in R and data manipulations
    Includes a cool package allowing to report statistics directly to a manuscript. [Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
-   ## ggplot grammar or how to create plots with ggpot2 package in R
+## ggplot grammar or how to create plots with ggpot2 package in R
 1. General guide with slides. [Click here](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. R visualization workshop. Lots of useful info about graphics in R. [Click here](https://stulp.gmw.rug.nl/ggplotworkshop/)
 4. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
 
-   ## things you can do with ggplot 
+## things you can do with ggplot 
 1. The R graph gallery. Ways how you can visualize your data. [Click here](http://www.r-graph-gallery.com/)
 2. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
 3. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
