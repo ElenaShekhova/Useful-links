@@ -27,7 +27,7 @@ Collection of useful resources about coding in R and data manipulations
    Includes a cool package allowing to report statistics directly to a manuscript. [Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
-## ggplot grammar or how to create plots with ggpot2 package in R
+## ggplot grammar or how to create plots with the ggpot2 package in R
 1. General guide with slides. [Click here](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. R visualization workshop. Lots of useful info about graphics in R. [Click here](https://stulp.gmw.rug.nl/ggplotworkshop/)
@@ -39,6 +39,10 @@ Collection of useful resources about coding in R and data manipulations
 3. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
 4. Create animations! How about that?! [Click here](https://anderfernandez.com/en/blog/how-to-create-animations-in-r-with-gganimate/), [and here](https://paldhous.github.io/ucb/2018/dataviz/week14.html), [and here](https://gganimate.com/), [and here](https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/)
 5. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
+
+
+## how to organize your data in tables
+1. An overview on how to make beautiful tables in R. [Click here](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 
 
 # **Free workshops and courses**
