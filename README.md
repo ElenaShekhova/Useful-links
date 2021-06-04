@@ -15,7 +15,7 @@ Collection of useful resources about coding in R and data manipulations
 3. Basic R Guide for NSC Statistics. [Click here](https://bookdown.org/dli/rguide/)
 4. R Graphics Cookbook. Basically everything you need to know about graphics in R. [Click here](https://r-graphics.org/)
 5. Data wrangling, exploration, and analysis with R. A truly inspirational book/site. [Click here](https://stat545.com/)
-6. R for Data Science. This books teaches how to use a famouse set of R packages called tidyverse. [Click here](https://r4ds.had.co.nz/index.html)
+6. R for Data Science. Teaches how to use a famouse set of R packages called tidyverse. [Click here](https://r4ds.had.co.nz/index.html)
 7. Data Wrangling with R. Nicely describes how to use dplyr and tidyr packages. [Click here](https://cengel.github.io/R-data-wrangling/)
 
 # **Satatistics**
@@ -27,13 +27,13 @@ Collection of useful resources about coding in R and data manipulations
    Includes a cool package allowing to report statistics directly to a manuscript. [Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
-## ggplot grammar or how to create plots with the ggpot2 package in R
+## Ggplot grammar or how to create plots with the ggpot2 package in R
 1. General guide with slides. [Click here](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 2. Simple guide how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. R visualization workshop. Lots of useful info about graphics in R. [Click here](https://stulp.gmw.rug.nl/ggplotworkshop/)
 4. A package that allows to add statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
 
-## things you can do with ggplot 
+## Things you can do with ggplot 
 1. The R graph gallery. Ways how you can visualize your data. [Click here](http://www.r-graph-gallery.com/)
 2. Change colors of your plots. [Click here](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
 3. Draw your genes with arrows! [Click here](https://github.com/wilkox/gggenes)
@@ -41,7 +41,7 @@ Collection of useful resources about coding in R and data manipulations
 5. Arrange several graphs together. [Click here](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html)
 
 
-## how to organize your data in tables
+## Organize your data in tables
 1. An overview on how to make beautiful tables in R. [Click here](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 
 
@@ -70,5 +70,5 @@ Collection of useful resources about coding in R and data manipulations
 # **Markdown useful links**
 
 1. Markdown Cheatsheet helps to create and organize Github "README.md" page. [Click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. A wonderful tutorial on how to build websites with the Jekyll framework on GitHub [Click here](https://carpentries-incubator.github.io/jekyll-pages-novice/)
+2. A wonderful tutorial on how to build websites with the Jekyll framework on GitHub. [Click here](https://carpentries-incubator.github.io/jekyll-pages-novice/)
 3. Writing reproducible research papers with R Markdown. [Click here](https://resulumit.com/teaching/rmd_workshop#1)
