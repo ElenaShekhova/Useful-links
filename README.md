@@ -14,9 +14,9 @@ Collection of useful resources about coding in R and data manipulations
 2. Welcome to Text Mining with R. Describes how to extract and analyze "text" data, for example from Twitter. [Click here](https://www.tidytextmining.com/index.html)
 3. Basic R Guide for NSC Statistics. [Click here](https://bookdown.org/dli/rguide/)
 4. R Graphics Cookbook. Basically everything you need to know about graphics in R. [Click here](https://r-graphics.org/)
-5. Data Wrangling with R. Describes how to use dplyr and tidyr packages. [Click here](https://cengel.github.io/R-data-wrangling/)
-6. Data wrangling, exploration, and analysis with R. A truly inspirational book/site. [Click here](https://stat545.com/)
-7. R for Data Science. This books teaches how to use a famouse set of R packages called tidyverse for data analysis. [Click here](https://r4ds.had.co.nz/index.html)
+5. Data wrangling, exploration, and analysis with R. A truly inspirational book/site. [Click here](https://stat545.com/)
+6. R for Data Science. This books teaches how to use a famouse set of R packages called tidyverse. [Click here](https://r4ds.had.co.nz/index.html)
+7. Data Wrangling with R. Nicely describes how to use dplyr and tidyr packages. [Click here](https://cengel.github.io/R-data-wrangling/)
 
 # **Satatistics**
 
