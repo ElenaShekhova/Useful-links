@@ -6,6 +6,8 @@ Collection of useful resources about coding in R and data manipulations
 1. Ultimate R Resources: From Beginner to Advanced. [Click here](https://thatdatatho.com/2020/05/16/r-resources-beginner-advanced/)
 2. R Resources for Beginners and Intermediate Users. [Click here](https://martindevaux.com/2021/01/r_resources_beginners_intermediate/)
 
+3. All about basics of R objects. [Click here](https://egret.psychol.cam.ac.uk/statistics/R/enteringdata.html)
+
 # **Books about R**
 
 1. An Introduction to Data Analysis. How to use R to handle, plot and analyze data. [Click here](https://michael-franke.github.io/intro-data-analysis/index.html)
