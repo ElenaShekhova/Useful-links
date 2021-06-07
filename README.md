@@ -15,15 +15,15 @@ Collection of useful resources about coding in R and data manipulations
 3. Basic R Guide for NSC Statistics. [Click here](https://bookdown.org/dli/rguide/)
 4. R Graphics Cookbook. Basically, everything you need to know about graphics in R. [Click here](https://r-graphics.org/)
 5. Data wrangling, exploration, and analysis with R. A truly inspirational book/site. [Click here](https://stat545.com/)
-6. R for Data Science. Teaches how to use a famous set of R packages called tidyverse. [Click here](https://r4ds.had.co.nz/index.html)
+6. R for Data Science. Teaches how to use a famous set of R packages called Tidyverse. [Click here](https://r4ds.had.co.nz/index.html)
 7. Data Wrangling with R. Nicely describes how to use dplyr and tidyr packages. [Click here](https://cengel.github.io/R-data-wrangling/)
 
-# **Statistics**
+# **Data preparation and Statistics**
 
 1. Common statistical tests are linear models (or: how to teach stats). [Click here](https://lindeloev.github.io/tests-as-linear/)
 2. Comparing means in R. An easy guide to standard statistical tests. [Click here](http://www.sthda.com/english/wiki/comparing-means-in-r)
-3. 
-4. A great collection of R packages to deal with statistics. [Click here](https://github.com/easystats/easystats)
+3. An introduction to Tydiverse, the set of classical packages for data analysis. [Click here](https://www.analyticsvidhya.com/blog/2019/05/beginner-guide-tidyverse-most-powerful-collection-r-packages-data-science/)
+4. Another great collection of R packages to deal with statistics. [Click here](https://github.com/easystats/easystats)
    Includes a cool package allowing to report statistics directly to a manuscript. [Click here](https://github.com/easystats/report)
 
 # **Everything about data visualization**
