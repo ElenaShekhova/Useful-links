@@ -1,5 +1,5 @@
 # Useful-links
-Collection of useful resources about coding in R and data manipulations 
+This page was created to collect useful resources on how R programming language can be used to deal with different types of data. 
 
 # **Recommendations and resources on how to start using R**
 
