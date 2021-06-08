@@ -60,8 +60,9 @@ Collection of useful resources about coding in R and data manipulations
 
 # **Useful tools for meta-analysis**
 
-1. A package for re-analysing published meta-analysis data. [Click here](https://github.com/dsquintana/metameta)
-2. Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
+1. Doing Meta-Analysis with R: A Hands-On Guide. A very useful e-book. [Click here](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+2. A package for re-analysing published meta-analysis data. [Click here](https://github.com/dsquintana/metameta)
+3. Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
 
 # **Blogs to keep yourself updated**
 
