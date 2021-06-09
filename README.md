@@ -74,3 +74,4 @@ This page was created to collect useful resources on how R programming language 
 1. Markdown Cheatsheet helps to create and organize Github "README.md" page. [Click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. A wonderful tutorial on how to build websites with the Jekyll framework on GitHub. [Click here](https://carpentries-incubator.github.io/jekyll-pages-novice/)
 3. Writing reproducible research papers with R Markdown. [Click here](https://resulumit.com/teaching/rmd_workshop#1)
+4. Build a website with R Markdown and the distill package. [Click here](https://lisalendway.netlify.app/posts/2020-12-09-buildingdistill/?utm_source=dlvr.it&utm_medium=facebook)
