@@ -33,6 +33,7 @@ This page was created to collect useful resources on how R programming language 
 2. A simple guide on how to make high-quality figures with ggplot2, including maps. [Click here](https://ben-williams.github.io/updated_ggplot_figures.html)
 3. R visualization workshop. Lots of useful info about graphics in R. [Click here](https://stulp.gmw.rug.nl/ggplotworkshop/)
 4. A package that allows adding statistics to your ggplots. [Click here](https://github.com/IndrajeetPatil/ggstatsplot)
+5. A very beautiful and useful guide on how to choose a correct graphics for visualization. [Click here](https://www.data-to-viz.com/#boxplot) 
 
 ## Things you can do with ggplot 
 1. The R graph gallery. Ways how you can visualize your data. [Click here](http://www.r-graph-gallery.com/)
