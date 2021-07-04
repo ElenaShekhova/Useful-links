@@ -59,6 +59,7 @@ This page was created to collect useful resources on how R programming language 
 1. Analyzing high-throughput FACS assays with R. [Click here](https://jchellmuth.com/posts/FACS-with-R/)
 2. RNAseq analysis in R. [Click here](https://bioinformatics-core-shared-training.github.io/RNAseq-R/) and [Click here](https://combine-australia.github.io/RNAseq-R/)
 3. An amazing workshop on how to analyze RNA-seq Bulk and single-cell data. [Click here](https://stemangiola.github.io/rpharma2020_tidytranscriptomics/articles/tidytranscriptomics.html#reproducibility-1)
+4. qPCR analysis R package. Something that we all needed. [Click here](https://github.com/ewallace/tidyqpcr)
 
 # **Useful tools for meta-analysis**
 
