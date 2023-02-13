@@ -73,6 +73,7 @@ This page was created to collect useful resources on how R programming language 
 3. Data manipulations on MaxQuant data in edgeR [Click here](https://pwilmart.github.io/TMT_analysis_examples/CarbonSources_MQ.html)
 4. Peptide-based workflows for analysis of Label-Free Quantitative mass spectrometry data [Click here](https://www.bioconductor.org/packages/release/bioc/vignettes/msqrob2/inst/doc/cptac.html#)
 5. Proteomics Data Analysis 2021 course [Click here](https://statomics.github.io/PDA21/)
+6. R script for basic analysis and visualization of isobaric labeling proteomic data [Click here](https://towardsdatascience.com/embrace-r-to-boost-your-proteomic-analysis-ea6fdc8909e7)
 
 # **Blogs to keep yourself updated**
 
