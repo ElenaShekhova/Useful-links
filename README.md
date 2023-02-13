@@ -71,7 +71,7 @@ This page was created to collect useful resources on how R programming language 
 1. Step by step tutorial on how to deal with proteomics data sets [Click here](https://www.r-bloggers.com/2018/08/proteomics-data-analysis-1-3-data-acquisition-and-cleaning/)
 2. PAW pipeline to analyze TMT data [Click here](https://github.com/pwilmart/PAW_pipeline))
 3. Data manipulations on MaxQuant data in edgeR [Click here](https://pwilmart.github.io/TMT_analysis_examples/CarbonSources_MQ.html)
-4. 
+4. Peptide-based workflows for analysis of Label-Free Quantitative mass spectrometry data [Click here](https://www.bioconductor.org/packages/release/bioc/vignettes/msqrob2/inst/doc/cptac.html#)
 
 
 # **Blogs to keep yourself updated**
