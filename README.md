@@ -63,9 +63,14 @@ This page was created to collect useful resources on how R programming language 
 
 # **Useful tools for meta-analysis**
 
-1. Doing Meta-Analysis with R: A Hands-On Guide. A very useful e-book. [Click here](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+1. Doing Meta-Analysis with R: A Hands-On Guide. A very useful e-book. [Click here](https://www.r-bloggers.com/2018/08/proteomics-data-analysis-1-3-data-acquisition-and-cleaning/)
 2. A package for re-analysing published meta-analysis data. [Click here](https://github.com/dsquintana/metameta)
 3. Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
+
+# **Useful tools for proteomics**
+1. Step by step tutorial on how to deal with proteomics data sets [Click here](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+
+
 
 # **Blogs to keep yourself updated**
 
