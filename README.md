@@ -68,7 +68,7 @@ This page was created to collect useful resources on how R programming language 
 3. Equivalence-enhanced forest plots with power tiles for meta-analysis. [Click here](https://www.dsquintana.blog/equivalence-enhanced-forest-plots-with-power-tiles/)
 
 # **Useful tools for proteomics**
-1. Step by step tutorial on how to deal with proteomics data sets [Click here]([https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/](https://www.r-bloggers.com/2018/08/proteomics-data-analysis-1-3-data-acquisition-and-cleaning/))
+1. Step by step tutorial on how to deal with proteomics data sets [Click here]([https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/](https://www.r-bloggers.com/2018/08/proteomics-data-analysis-1-3-data-acquisition-and-cleaning/)
 
 
 
