@@ -75,6 +75,7 @@ This page was created to collect useful resources on how R programming language 
 5. Proteomics Data Analysis 2021 course [Click here](https://statomics.github.io/PDA21/)
 6. R script for basic analysis and visualization of isobaric labeling proteomic data [Click here](https://towardsdatascience.com/embrace-r-to-boost-your-proteomic-analysis-ea6fdc8909e7)
 7. protti R package for proteomics quality control and data analysis [Click here](https://github.com/jpquast/protti)
+8. Mass spectrometry (MS) based proteomics data using R and Bioconductor. [Click here](https://lgatto.github.io/2021-03-15-RProt-online/index.html)
 
 # **Blogs to keep yourself updated**
 
